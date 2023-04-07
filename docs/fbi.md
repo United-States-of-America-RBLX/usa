@@ -1,2 +1,6 @@
-!!! warning
-	This page is a WIP.
+
+The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States, responsible for investigating and enforcing federal laws within the country. The agency was established in 1908 and is currently headquartered in Washington D.C.The FBI's primary function is to protect the United States from domestic and international terrorism, espionage, cyber attacks, and other criminal activities. The agency has jurisdiction over more than 200 categories of federal crimes and works closely with other law enforcement agencies at the federal, state, and local levels.The FBI's responsibilities include conducting criminal investigations, gathering intelligence, conducting surveillance, and providing training and support to other law enforcement agencies. The agency also works closely with foreign law enforcement and intelligence agencies to combat international terrorism and other transnational criminal activities.The FBI is headed by a Director who is appointed by the President and confirmed by the Senate.
+
+Join here:
+
+<https://discord.gg/mPt8HHbuUv>

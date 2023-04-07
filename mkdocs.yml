@@ -45,6 +45,7 @@ nav:
     - Constitution: "constitution.md"
     - Chain of Command: "chainofcommand.md"
     - Cabinet: "cabinet.md"
+    - FBI: "fbi.md"
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
